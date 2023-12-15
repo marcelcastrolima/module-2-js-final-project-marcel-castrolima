@@ -1,0 +1,114 @@
+[
+	{
+		"title": "Entanglement",
+		"year": "2023",
+		"instrumentation": "String Quartet",
+		"duration": "8'12\"",
+		"premiere_date": "10/01/2023",
+		"premiered_by": "Julius Quartet"
+	},
+	{
+		"title": "Bendito",
+		"year": "2021",
+		"instrumentation": "Guitar and Live Electronics",
+		"duration": "8'35\"",
+		"premiere_date": "09/31/2021",
+		"premiered_by": "Nathan Fischer"
+	},
+	{
+		"title": "Western Music for Mixed Ensemble",
+		"year": "2022",
+		"instrumentation": "Piano, Percussion, Electric Guitar, Saxophone",
+		"duration": "7'54\"",
+		"premiere_date": "11/01/2022",
+		"premiered_by": "Hypercube"
+	},
+	{
+		"title": "Tactile",
+		"year": "2022",
+		"instrumentation": "Clarinet, Bassoon, Horn, and Guitar",
+		"duration": "6'44\"",
+		"premiere_date": "07/16/2022",
+		"premiered_by": "Ensemble Dal Niente"
+	},
+	{
+		"title": "Calunga",
+		"year": "2022",
+		"instrumentation": "Clarinet, Bassoon, Horn, and Guitar",
+		"duration": "8'24\"",
+		"premiere_date": "07/02/2022",
+		"premiered_by": "Splice Ensemble"
+	},
+	{
+		"title": "Three Markovian Studies",
+		"year": "2022",
+		"instrumentation": "Piano",
+		"duration": "7'15\"",
+		"premiere_date": "02/21/2022",
+		"premiered_by": "Alvin Leung"
+	},
+	{
+		"title": "Toada, Lamento, e Dança",
+		"year": "2016",
+		"instrumentation": "String Trio",
+		"duration": "7'28\"",
+		"premiere_date": "12/15/2021",
+		"premiered_by": "Dallas Symphony Orchestra Chamber Players"
+	},
+	{
+		"title": "The Arrow of Time",
+		"year": "2019",
+		"instrumentation": "Flute and Variable Ensemble",
+		"duration": "19'00\"",
+		"premiere_date": "11/15/2021",
+		"premiered_by": "Alvin Leung"
+	},
+	{
+		"title": "The Bull",
+		"year": "2018",
+		"instrumentation": "Clarinet and Electronics",
+		"duration": "12'18\"",
+		"premiere_date": "09/27/2021",
+		"premiered_by": "Brooke Miller"
+	},
+	{
+		"title": "Fake News",
+		"year": "2019",
+		"instrumentation": "Fixed Media",
+		"duration": "9'51\"",
+		"premiere_date": "02/17/2020",
+		"premiered_by": "N/A"
+	},
+	{
+		"title": "Goodbye to the Aura",
+		"year": "2018",
+		"instrumentation": "Four Performers on One Piano and Actor/Actress",
+		"duration": "18'11\"",
+		"premiere_date": "04/14/2018",
+		"premiered_by": "UNIRIO's Prepared Piano Workshop"
+	},
+	{
+		"title": "Variations on a Theme of Choro",
+		"year": "2017",
+		"instrumentation": "Bassoon Quartet",
+		"duration": "5'49\"",
+		"premiere_date": "09/05/2017",
+		"premiered_by": "N/A"
+	},
+	{
+		"title": "Academic Fantasy",
+		"year": "2018",
+		"instrumentation": "Symphony Orchestra",
+		"duration": "8'34\"",
+		"premiere_date": "09/27/2018",
+		"premiered_by": "Goiás Philharmonic Orchestra"
+	},
+	{
+		"title": "Overture for Aleijadinho's Twelve Prophets",
+		"year": "2018",
+		"instrumentation": "Symphony Orchestra",
+		"duration": "11'44\"",
+		"premiere_date": "05/11/2018",
+		"premiered_by": "UFRJ's Symphony Orchestra."
+	}
+]
