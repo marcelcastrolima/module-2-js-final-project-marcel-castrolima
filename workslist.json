@@ -74,7 +74,7 @@
 	{
 		"title": "Fake News",
 		"year": "2019",
-		"instrumentation": "Fixed Media",
+		"instrumentation": "Electronics, Fixed Media",
 		"duration": "9'51\"",
 		"premiere_date": "02/17/2020",
 		"premiered_by": "N/A"
@@ -109,6 +109,79 @@
 		"instrumentation": "Symphony Orchestra",
 		"duration": "11'44\"",
 		"premiere_date": "05/11/2018",
-		"premiered_by": "UFRJ's Symphony Orchestra."
+		"premiered_by": "UFRJ's Symphony Orchestra"
+	},
+	{
+		"title": "Diptych: Two churches of St. Francis of Assisi",
+		"year": "2016",
+		"instrumentation": "Symphony Orchestra",
+		"duration": "09'33\"",
+		"premiere_date": "11/21/2016",
+		"premiered_by": "UFRJ's Symphony Orchestra"
+	},
+	{
+		"title": "ORION",
+		"year": "2015",
+		"instrumentation": "Woodwind Quintet",
+		"duration": "06'16\"",
+		"premiere_date": "03/07/2016",
+		"premiered_by": "UFRJ Experimental Quintet"
+	},
+	{
+		"title": "Topography n.1",
+		"year": "2016",
+		"instrumentation": "Oboe",
+		"duration": "11'44\"",
+		"premiere_date": "08/31/2016",
+		"premiered_by": "Arthur Ortemblad"
+	},
+	{
+		"title": "Three Miniatures",
+		"year": "2016",
+		"instrumentation": "Woodwind Quintet",
+		"duration": "5'12\"",
+		"premiere_date": "11/29/2016",
+		"premiered_by": "Quinteto Carioca"
+	},
+	{
+		"title": "Sonatina for Tuba and Piano",
+		"year": "2017",
+		"instrumentation": "Tuba, Piano",
+		"duration": "5'18\"",
+		"premiere_date": "05/02/2017",
+		"premiered_by": "Albert Khattar, Miriam Braga"
+	},
+	{
+		"title": "Interference",
+		"year": "2020",
+		"instrumentation": "Bass Clarinet and Electronics",
+		"duration": "1'20\"",
+		"premiere_date": "12/08/2020",
+		"premiered_by": "Batista Jr."
+	},
+	{
+		"title": "Quadrilha",
+		"year": "2017",
+		"instrumentation": "String Orchestra",
+		"duration": "5'20\"",
+		"premiere_date": "06/09/2018",
+		"premiered_by": "Youth Symphony Orchestra of Rio de Janeiro."
+	},
+	{
+		"title": "Prelude",
+		"year": "2017",
+		"instrumentation": "Violin",
+		"duration": "4'48\"",
+		"premiere_date": "11/29/2017",
+		"premiered_by": "Elaine Bastos"
+	},
+	{
+		"title": "Topography n.2",
+		"year": "2018",
+		"instrumentation": "Clarinet",
+		"duration": "9'30\"",
+		"premiere_date": "07/23/2018",
+		"premiered_by": "Bezaleel Ferreira."
 	}
+
 ]
